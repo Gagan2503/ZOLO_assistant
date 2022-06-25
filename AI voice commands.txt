@@ -1,0 +1,17 @@
+Followings are the command used in our AI virtual  assistant:
+
+1.Search on wikipedia
+2.opn youtube
+3.open google
+4.open stackoverflow
+5.Play music
+6.Tell me the time
+7.how are you
+8.who i am
+9.Who brought you into this world?
+10."i love you" or "i like you"
+11.who are you
+12.will you be my friend
+13.calculate (4 plus 4) (555 multiply 666) (48 minus 36)
+14.tell me the weather , city name
+15 exit
